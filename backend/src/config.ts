@@ -33,7 +33,7 @@ export const DISTRIBUTED_SERVER_ENDPOINTS = [
     SERVER_5_ENDPOINT,
 ];
 
-export const RPC_URL = process.env.RPC_URL ?? "https://api.devnet.solana.com";
+export const RPC_URL = "";
 
 export const PARENT_WALLET_PUBLIC_KEY = process.env.PARENT_WALLET_PUBLIC_KEY;
 
